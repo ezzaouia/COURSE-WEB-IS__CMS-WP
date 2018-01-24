@@ -35,6 +35,8 @@ Une fois vous y êtes connecté, choisir la langue, puis username, adresse mail 
 
 ![WordPress Welcome](imgs/wp-welcome-config.png)
 
+![WordPress Welcome](imgs/wp-welcome-config-ok.png)
+
 ![WordPress Login](imgs/wp-login.png)
 
 ![WordPress Dashboard](imgs/wp-dashboard.png)
@@ -44,11 +46,11 @@ MySQL WorkBench est un client qui nous permet d'interagir avec la base de donné
 
 MySQL WorkBench est un produit d'oracle qu'on peut télécharger depuis `https://dev.mysql.com/downloads/workbench/` en ayant un compte oracle.
 
-Une fois installé, ouvrez-le, et puis cliquez sur le `+` pour ajouter une nouvelle connexion à la base de données MySQL WP.
+Ouvrez l'outil (une fois installé) et puis cliquez sur le `+` pour ajouter une nouvelle connexion à la base de données MySQL WP.
 
 ![MySQL WorkBench Welcome](imgs/mysql-wb.png)
 
-Une c'est fait, configurez la connexion en utilisant les accès à la base de données que vous avez mis dans `docker-compose` et validez :
+Une fois c'est fait, configurez la connexion en utilisant les accès à la base de données que vous avez mis dans `docker-compose` et validez :
 
 ![MySQL WorkBench Conn](imgs/mysql-wb-conn-config.png)
 
